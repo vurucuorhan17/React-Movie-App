@@ -1,0 +1,39 @@
+{
+  "movies": [
+    {
+      "name": "Arrow",
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg",
+      "rating": "8.1",
+      "id": 3
+    },
+    {
+      "name": "Project Power 2",
+      "overview": "TEST TEST TEST This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/TnOeov4w0sTtV2gqICqIxVi74V.jpg",
+      "rating": "6.9",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Superman",
+      "rating": 7.6,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/6Bbq8qQWpoApLZYWFFAuZ1r2gFw.jpg"
+    },
+    {
+      "name": "Uçurtma Avcısı",
+      "rating": "5.5",
+      "imageURL": "merhaba.jpg",
+      "overview": "Test açıklama",
+      "id": 7
+    },
+    {
+      "name": "Hız Tutkusu",
+      "rating": "4.2",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/plDD3HPYiFjhat2cvb5RfFZmoxP.jpg",
+      "overview": "Açıklama",
+      "id": 8
+    }
+  ]
+}
